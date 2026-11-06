@@ -4,7 +4,7 @@
 This data analytics project involves a comprehensive evaluation of High Cloud Airlines operations using a dataset of 110,849 flight records spanning 6 complete years (2008–2013)[cite: 6]. The objective is to analyze time intelligence, load factors, routing strategies, and carrier performance to improve airline profitability and operational efficiency[cite: 6].
 
 ## 📊 Tools & Technologies Used
-  Complete Excel Project & Dashboard:** [Click here to view or download the Excel file]
+  **Complete Excel Project:** [Click here to access the 68MB Excel file (Note: Click the ⬇️ Download icon on the top right to download and view in MS Excel)]
   https://docs.google.com/spreadsheets/d/1FdOXxZ3MkbOKuRYUPCdrUkGFUwPP-FrJ/edit?usp=sharing&ouid=108187752760701528414&rtpof=true&sd=true
 
 - **MS Excel**: Data exploration, initial KPI formulation, and Excel-based dashboarding[cite: 6].
